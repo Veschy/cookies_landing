@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ae9ab26-fef0-437c-9951-cd99ab64c82d" name="Changes" comment="3d day finish with error" />
+    <list default="true" id="6ae9ab26-fef0-437c-9951-cd99ab64c82d" name="Changes" comment="3d day finish  correct" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +70,7 @@
       <updated>1733917635484</updated>
       <workItem from="1733917636799" duration="10338000" />
       <workItem from="1733985922500" duration="12916000" />
-      <workItem from="1734069663843" duration="8593000" />
+      <workItem from="1734069663843" duration="9069000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <option name="closed" value="true" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734078303105</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3d day finish  correct">
+      <option name="closed" value="true" />
+      <created>1734078491015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734078491015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +131,7 @@
     <MESSAGE value="3d day middle" />
     <MESSAGE value="3d day second block" />
     <MESSAGE value="3d day finish with error" />
-    <option name="LAST_COMMIT_MESSAGE" value="3d day finish with error" />
+    <MESSAGE value="3d day finish  correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="3d day finish  correct" />
   </component>
 </project>
